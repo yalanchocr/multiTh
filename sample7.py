@@ -11,5 +11,7 @@ def outer():
     inner()
     print(x)  # Prints 'outer x'
 
-
+outer()
 print(x)  # Prints 'global x'
+
+https://github.com/thanhit95/multi-threading/blob/main/python/demo08a_return_value.py
