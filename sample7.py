@@ -14,4 +14,4 @@ def outer():
 outer()
 print(x)  # Prints 'global x'
 
-https://github.com/thanhit95/multi-threading/blob/main/python/demo08a_return_value.py
+# https://github.com/thanhit95/multi-threading/blob/main/python/demo08a_return_value.py
